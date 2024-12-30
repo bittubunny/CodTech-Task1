@@ -1,12 +1,12 @@
 # CodTech-Task2
-Name: Bharath Chelimalla
-Company: CODTECH IT SOLUTIONS
-ID: CT12WEUS
-Domain: Machine Learning
-Duration: December 2024 to March 2025
-Mentor: 
+**Name**: Bharath Chelimalla
+**Company**: CODTECH IT SOLUTIONS
+**ID**: CT12WEUS
+**Domain**: Machine Learning
+**Duration**: December 2024 to March 2025
+**Mentor**: 
 
-###Overview
+### Overview
 ### Report: Predicting Housing Prices Using Linear Regression  
 
 #### **Objective**  
