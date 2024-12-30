@@ -1,4 +1,4 @@
-# CodTech-Task2
+# CodTech-Task1
  **Name**: Bharath Chelimalla
  **Company**: CODTECH IT SOLUTIONS
  **ID**: CT12WEUS
