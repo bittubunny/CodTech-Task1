@@ -6,7 +6,7 @@ Domain: Machine Learning
 Duration: December 2024 to March 2025
 Mentor: 
 
-#Overview
+###Overview
 ### Report: Predicting Housing Prices Using Linear Regression  
 
 #### **Objective**  
@@ -27,10 +27,15 @@ Key features used for prediction:
     **Dataset Loading**: The dataset was fetched from OpenML using the `fetch_openml` function.  
     **Feature Selection**: Five significant features were selected for model development.  
     **Feature Scaling**: Applied `StandardScaler` to normalize features for consistent scaling, improving model performance.
+![Screenshot 2024-12-30 175320](https://github.com/user-attachments/assets/a9d4cd72-87f3-4470-bfc3-3e9cd9d4508d)
+
 
 2. **Model Development**  
     **Data Splitting**: The dataset was split into training (80%) and testing (20%) sets to ensure evaluation on unseen data.  
     **Model Training**: A Linear Regression model was trained on the scaled training data.
+
+![Screenshot 2024-12-30 175303](https://github.com/user-attachments/assets/5acfe54c-4272-4b2d-9295-3609910b9d58)
+
 
 3. **Evaluation Metrics**  
     **Mean Squared Error (MSE)**: Measures the average squared difference between actual and predicted prices.  
@@ -38,7 +43,9 @@ Key features used for prediction:
     **Model Accuracy**: Represents the percentage of variance correctly predicted by the model on the test set.  
 
 4. **Visualizations**  
-    Scatter plot comparing actual vs. predicted prices.  
+    Scatter plot comparing actual vs. predicted prices.
+   ![Screenshot 2024-12-30 171528](https://github.com/user-attachments/assets/38d1b58c-73a9-4c57-9054-238e6965b30a)
+
     Bar chart showcasing the feature coefficients (importance).
     
 #### **Results**  
