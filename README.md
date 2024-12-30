@@ -4,7 +4,6 @@
  **ID**: CT12WEUS
  **Domain**: Machine Learning
  **Duration**: December 2024 to March 2025
- **Mentor**: 
 
 ### Overview
 ### Report: Predicting Housing Prices Using Linear Regression  
